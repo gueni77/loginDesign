@@ -88,11 +88,3 @@ button {
 	cursor: pointer;
 }
 
-.social {
-	margin: 30px;
-	display: flex;
-}
-
-.social div {
-	background: red;
-}
